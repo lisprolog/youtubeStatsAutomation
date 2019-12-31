@@ -1,0 +1,414 @@
+Pokemon Nintendo DS Emulation on Tinker Board
+37
+Turok N64 Emulation on Tinker Board
+37
+Tomb Raider Anniversary PSP Emulation on Tinker Board lags
+104
+Shin Megami Tensei Portable PSP Emulation on Tinker Board
+36
+Shin Megami Tensei Innocent Sin PSP on Tinker Board
+8
+Shin Megami Tensei Persona PSP on Tinker Board
+12
+Shadowman N64 on Tinker Board
+13
+Zelda Occarina of Time on Tinker Board
+34
+Metal Slug XX on Tinker Board
+31
+MediEvil Resurrection on Tinker Board
+11
+Mario Kart 64 on Tinker Board
+55
+Killer Instinct Gold on Tinker Board
+36
+Super Smash Brothers N64 on Tinker Board
+84
+Burn Out Legends (PSP) on Tinker Board
+137
+Corpse Party Book Of Shadows PSP on Tinker Board
+6
+Wipeout 64 on Tinker Board
+3
+Waverace N64 on Tinker Board
+38
+Toy Story 2 N64 on Tinker Board
+34
+Retro Arcade Tinker Board with Heat Sink
+11
+Rayman 2 Great Escape on Tinker Board
+11
+Operation Winback N64 on Tinker Board
+No
+Superman N64 on Tinker Board
+1
+Top Gear Hyperbike N64 on Tinker Board
+5
+Double Dragon 2 on Raspberry Pi 3B
+21
+Bram Stokers Dracula on Raspberry Pi 3B
+6
+Castlevania The New Generation on Raspberry Pi 3B
+9
+Columns 3 on Raspberry Pi 3B
+4
+Batman Forever on Raspberry Pi 3B
+18
+Cool Spot on Raspberry Pi 3B
+7
+Judge Dredd on Raspberry Pi 3B
+10
+Indiana Jones Last Crusade on Raspberry Pi 3B
+27
+Ghost Busters on Raspberry Pi 3B
+3
+Frogger on Raspberry Pi 3B
+49
+F117 Night Storm on Raspberry Pi 3B
+10
+Ecco The Dolphin 2 on Raspberry Pi 3B
+5
+Ecco Dolphin Jr on Raspberry Pi 3B
+6
+Earthworm Jim on Raspberry Pi 3B
+26
+Dungeons and Dragon Warriors of the Eternal Sun on Raspberry Pi 3
+14
+Double Dragon 5 on Raspberry Pi 3B
+3
+Double Dragon 3 on Raspberry Pi 3B
+7
+Kawasaki Super Bike Challenge on Raspberry Pi 3B
+4
+Krusty Fun House on Raspberry Pi 3B
+1
+Last Action Hero on Raspberry Pi 3B
+No
+Double Dragon on Raspberry Pi 3B
+89
+Lemmings 2 on Raspberry Pi 3B
+104
+Mega Bomberman on Raspberry Pi 3B
+29
+Light Crusader on Raspberry Pi 3B
+No
+Zero Tolerance on Raspberry Pi 3B
+2
+Twinkle Tale on Raspberry Pi 3B
+9
+TMNT Hyperstone Heist on Raspberry Pi 3B
+8
+Thunder Force 3 on Raspberry Pi 3B
+4
+Super Hang On Raspberry Pi 3B
+25
+Sonic and Knuckles on Raspberry Pi 3B
+14
+Sega Collections Raspberry Pi 3B
+5
+Revenge of the Shinobi on Raspberry Pi 3B
+51
+Prince of Persia 2 on Raspberry Pi 3B
+18
+NBA Hangtime (Genesis) on Raspberry Pi 3B
+12
+Mega Man Wily Wars on Raspberry Pi 3B
+3
+Batman on Raspberry Pi 3B
+15
+Asterix and the Great Rescue on Raspberry Pi 3B
+8
+Asterix and the Power of Gods on Raspberry Pi 3B
+1
+Animaniacs on Raspberry Pi 3B
+56
+Alisia Dragoon on Raspberry Pi 3B
+5
+Alien 3 on Raspberry Pi 3B
+13
+Adventures of Batman and Robin Raspberry Pi 3B
+6
+Shadowman on Raspberry Pi 3B
+18
+Resident Evil 2 Claire Raspberry Pi 3B
+42
+Frontschweine Hogs of War on Raspberry Pi 3B
+29
+C&amp;C Red Alert Soviet on Raspberry Pi 3B
+31
+C&amp;C NOD on Raspberry Pi 3B
+28
+Alien Trilogy on Raspberry Pi 3B
+21
+AD&amp;D Iron N Blood Warriors of Ravenloft Raspberry Pi 3B
+3
+Oddworld Abe&#39;s Oddyssee on Raspberry Pi 3B
+35
+Silent Scope Advance on Raspberry Pi 3B
+19
+Minesweeper on Raspberry Pi 3B
+54
+Street Fighter Alpha on Raspberry Pi 3B
+16
+Super Mario Bros on Raspberry Pi 3B
+33
+Star Wars The Rebel Assault 2 on Raspberry Pi 3B
+59
+Star Wars Phantom Menace on Raspberry Pi 3B
+15
+Spiderman Electro on Raspberry Pi 3B
+47
+Spiderman on Raspberry Pi 3B
+130
+Soul of the Samurai on Raspberry Pi 3B
+1
+Small Soldiers on Raspberry Pi 3B
+18
+Silent Bomber on Raspberry Pi 3B
+6
+Silent Hill on Raspberry Pi 3B
+339
+Riven on Raspberry Pi 3B
+17
+Quake 2 on Raspberry Pi 3B
+223
+Pro Evolution Soccer 2 on Raspberry Pi 3B
+343
+Parasite Eve on Raspberry Pi 3B
+72
+Mortal Kombat 4 on Raspberry Pi 3B
+334
+MediEvil 2 on Raspberry Pi 3B
+59
+Evil Dead on Raspberry Pi 3B
+18
+Colin McRae Rally on Raspberry Pi 3B
+44
+City of Lost Children on Raspberry Pi 3
+6
+Civilisation 2 on Raspberry Pi 3B
+42
+Dune 2000 on Raspberry Pi 3
+127
+Earthworm Jim 2 on Raspberry Pi 3B
+12
+Grand Theft Auto on Raspberry Pi 3
+49
+Gran Turismo 2 on Raspberry Pi 3B
+64
+Legend Of Dragoon on Raspberry Pi 3
+39
+Magic the Gathering on Raspberry Pi 3B
+37
+Space Harrier on Raspberry Pi 3 B
+13
+Super Metroid on Raspberry Pi 3B
+16
+Syphon Filter on Raspberry Pi 3B
+39
+Syphon Filter 3 on Raspberry Pi 3B
+29
+Teenage Mutant Ninja Turtles on Raspberry Pi 3B
+2
+Tekken on Raspberry Pi 3 B
+46
+Tetris on Raspberry Pi 3
+176
+Tekken 2 on Raspberry Pi 3 B
+35
+Time Crisis on Raspberry Pi 3 B
+436
+Time Crisis Project Titan on Raspberry Pi 3 B
+25
+Tomb Raider 3 on Raspberry Pi 3 B
+329
+Tomb Raider Chronicles on Raspberry Pi 3 B
+94
+Tomb Raider Last Revelation on Raspberry Pi 3 B
+88
+Tomb Raidern 2 on Raspberry Pi 3 B
+12
+Medal of Honor Underground on Raspberry Pi 3
+101
+MediEvil on Raspberry Pi 3 B
+137
+Outrun on Raspberry Pi 3 B
+66
+Persona 2 Eternal Punishment on Raspberry Pi 3 B
+14
+Tony Hawk Pro Skater on Raspberry Pi 3
+243
+Tony Hawk Pro Skater 2 on Raspberry Pi 3 B
+199
+Tony Hawk Pro Skater 3 on Raspberry Pi 3 B
+117
+Tony Hawk Pro Skater 4 on Raspberry Pi 3
+106
+Twisted Metal on Raspberry Pi 3 B
+130
+Vagrant Story on Raspberry Pi 3 B
+52
+Virtua Fighter on Raspberry Pi 3 B
+277
+Worms Armageddon on Raspberry Pi 3 B
+336
+Wolfenstein 3D on Raspberry Pi 3 B
+24
+Warhammer Dark Omen on Raspberry Pi 3 B
+37
+Prince of Persia on Raspberry Pi 3 B
+60
+WWF Smackdown on Raspberry Pi 3 B
+47
+WWF Smackdown 2 on Raspberry Pi 3 B
+31
+You don&#39;t know Jack on Raspberry Pi 3 B
+55
+Zero Wing on Raspberry Pi 3
+6
+Nuclear Strike PSX on Raspberry Pi 3
+14
+Nightmare Creatures 2 on Raspberry Pi 3
+4
+Nightmare Creatures on Raspberry Pi 3
+13
+NHL 2001 on Raspberry Pi 3
+32
+NBA Showtime on Raspberry Pi 3
+97
+MDK on Raspberry Pi 3
+35
+Marvel vs Capcom on Raspberry Pi 3
+23
+Marvel Super Heroes vs Street Fighter Raspberry Pi 3
+30
+Martian Gothic on Raspberry Pi 3
+70
+Mario Bros on Raspberry Pi 3
+9
+Legacy of Kain: Soul Reaver on Raspberry Pi 3
+83
+Koudelka on Raspberry Pi 3
+9
+GTA Advance Raspberry Pi 3
+34
+Star Wars Jedi Power Battles Raspberry Pi 3
+84
+ISS Pro Evolution on Raspberry Pi 3
+56
+Galerians on Raspberry Pi 3
+5
+Final Fantasy 1 on Raspberry Pi 3
+12
+Final Doom on Raspberry Pi 3 B
+16
+FIFA 2002 WC Korea Japan on Raspberry Pi 3:
+65
+Fear Effect Retro Helix on Raspberry Pi 3
+4
+Fear Effect on Raspberry Pi 3
+6
+Dracula the Last Sanctuary on Raspberry Pi 3
+8
+Doom Sega x32 Emulation on Raspberry Pi 3
+12
+Donkey Kong on Rasbperry Pi 3
+16
+Dino Crisis 2 on Raspberry Pi 3
+105
+Dave Mirra Freestyle BMX on Raspberry Pi 3
+28
+Crash Bandicoot Warped on Raspberry Pi 3
+26
+Crash Bandicoot 2 on Raspberry Pi 3
+20
+Cool Boarders 2 on Raspberry Pi 3
+24
+Cool Boarders on Raspberry Pi 3
+6
+Contra 3 Alien Wars on Raspberry Pi 3
+15
+Command N Conquer Red Alert on RP3
+63
+Chocobo Racing on Raspberry Pi 3
+19
+Chocobo Dungeon on Raspberry Pi 3
+2
+Checkmate 2 on Raspberry Pi 3
+7
+Centipede on Raspberry Pi 3:
+24
+Capcom vs SNK on Raspberry Pi 3
+39
+Bowling on Raspberry Pi 3
+29
+Asteroids on Raspberry Pi 3
+50
+Alone In The Dark The new Nightmare on Raspberry Pi 3 B
+19
+Final Fantasy 8 on Raspberry Pi 3 B
+387
+Final Fantasy 7 on Raspberry Pi 3 B
+42
+Final Fantasy 6 on Raspberry Pi 3 B
+26
+Driver 2 on Raspberry Pi 3 B
+141
+Dino Crisis on Raspberry Pi 3 B
+228
+Crash Bandicoot on Raspberry Pi 3 B
+185
+Command and Conquer on Raspberry Pi 3 B
+229
+Blood Omen on Raspberry Pi 3
+41
+Tekken 3 on Raspberry Pi 3
+33
+Oddworld Abe&#39;s Exoddus on Raspberry Pi 3
+39
+Super Mario Bros 3 on Raspberry Pi 3
+67
+Soul Blade on Raspberry Pi 3
+41
+Super Mario Land on Raspberry Pi
+14
+Resident Evil 2 (Leon) on Raspberry Pi 3
+145
+Resident Evil 1 on Raspberry Pi 3
+39
+Ms Pacman on Raspberry Pi 3B
+243
+Metroid Return of Samus on Raspberry Pi
+4
+GameBoy Tennis on Raspberry Pi
+8
+Sega Game Gear 4 in 1 on Raspberry Pi 3B
+8
+Ninja Gaiden on Raspberry Pi 3B
+4
+Kirby Super Star on Raspberry Pi 3B
+17
+Kirby Nightmare in Dreamland on Raspberry Pi 3B
+6
+Game of Thrones into Database Tutorial 1/7
+16
+Game of Thrones into Database Tutorial 2/7
+5
+Game of Thrones into Database Tutorial 3/7
+No
+Game of Thrones into Database Tutorial 4/7
+2
+Game of Thrones into Database Tutorial 5/7
+6
+Game of Thrones into Database Tutorial 6/7
+3
+Game of Thrones into Database Tutorial 7/7
+2
+paste ROM into emulator
+17
+ecm to bin conversion in GNU/Linux/Unix
+92
+Olivetti Logos 49
+247
+Mario Tennis N64 lags on Tinker Board
+32
