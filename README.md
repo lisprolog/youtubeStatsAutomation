@@ -13,8 +13,10 @@ There are two shell scripts.
 
 script2.sh does the curl downloads, guided by videoList2, which contains all the URLs.
 Then it greps both the title of the youtube page and the views count, but with HTML source code noise into resultFile.
+A index counts the URLs and shows them in CL. (represents progress)
 
 script3.sh starts Extract.java and TopTenPriority.java and puts results into TopTen.txt
+Then it creates a folder with current date as name and moves the three files inside.
 
 Extract.java extracts the title and view counts into extracedFile. This way the HTML code gets filtered and
 title and views are each in a single line without further HTML code.
