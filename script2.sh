@@ -1,5 +1,5 @@
 #!/bin/sh
-file="/patch/to/videoList2.txt"
+file="/path/to/videoList2.txt"
 c=1
 while IFS= read -r line
 do

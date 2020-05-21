@@ -1,5 +1,5 @@
 #!/bin/sh
-file="/home/nomozroot/webcrawler/videoListAgain.txt"
+file="/pathTo/videoListAgain.txt"
 c=1
 while IFS= read -r line
 do
