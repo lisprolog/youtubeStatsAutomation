@@ -28,3 +28,4 @@ After sorting the result will be printed into TopTen.txt (script3.sh).
 TopTen.txt will show both the views and the title, in order of most viewed.
 
 02.07.2020 Update
+15.04.2021 repo not up to date: more files plus regex
